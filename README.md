@@ -1,6 +1,5 @@
-<!-- Header Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Tech Banner" width="50%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Machine Learning Banner" width="45%" />
 </p>
 
 <h1 align="center">Greetings, I am <b>Imtiaz</b> 👋</h1>
@@ -41,6 +40,10 @@ Computer Vision, Deep Learning Projects, Python, Django
   <a href="https://github.com/shahriarimtiazofficial" target="_blank" rel="noreferrer" title="GitHub">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="45" height="45" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/database2246" target="_blank" rel="noreferrer" title="X Profile">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="X (Twitter)" width="45" height="45" />
+  </a>
 </p>
 
 ---
@@ -65,19 +68,6 @@ Computer Vision, Deep Learning Projects, Python, Django
 
 ---
 
-### 🚀 Featured Repositories  
-<p align="center">
-  <a href="https://github.com/shahriarimtiazofficial/Final_Lab">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarimtiazofficial&repo=Final_Lab&theme=dark" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/shahriarimtiazofficial/CodeinPython">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarimtiazofficial&repo=CodeinPython&theme=dark" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Language Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriarimtiazofficial&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -92,7 +82,8 @@ Computer Vision, Deep Learning Projects, Python, Django
 
 ---
 
-### 🐍 Contribution Snake  
+### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahriarimtiazofficial/shahriarimtiazofficial/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriarimtiazofficial" alt="GitHub Streak" />
 </p>
+
