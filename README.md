@@ -17,17 +17,17 @@
 ---
 
 ### 🌱 I am currently learning  
-NLTK, OpenCV, TensorFlow, Django, ReactJS, Bootstrap
+NLTK, OpenCV, TensorFlow, PyTorch
 
 ---
 
 ### 👯 I am looking to collaborate on  
-CVPR-Based Human Detection Model for Flood Crisis Response
+CVPR BasedProjects
 
 ---
 
 ### 💬 Ask me about  
-Computer Vision, Deep Learning Projects, Python, Django
+Computer Vision, Deep Learning Projects, Python,NLP Projects
 
 ---
 
@@ -55,14 +55,10 @@ Computer Vision, Deep Learning Projects, Python, Django
   <a href="https://www.w3schools.com/cs/" title="C#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" title="Django"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
   <a href="https://www.linux.org/" title="Linux"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" title="ReactJS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
 </p>
 
